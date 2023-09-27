@@ -14,11 +14,11 @@ Before you can run the application, you'll need to follow these installation ste
 
 3. **Navigate to the Project Directory**: Change your current directory to the project's root directory:
 
-    cd Hostel-resort-website
+    ###cd Hotel-resort-website
    
 5. **Install Dependencies**: Run the following command to install the project dependencies:
 
-    npm install 
+    ###npm install 
 
 
 
