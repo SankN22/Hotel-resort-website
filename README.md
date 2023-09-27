@@ -8,14 +8,16 @@ Before you can run the application, you'll need to follow these installation ste
 
 1. **Clone the Repository**: Start by cloning this repository to your local machine using Git:
 
-    git clone https://github.com/yourusername/hotel-resort-website.git
+    git clone [https://github.com/yourusername/hotel-resort-website.git](https://github.com/SankN22/Hotel-resort-website.git)
 
 2. **Install Node.js and npm**: Make sure you have Node.js and npm (Node Package Manager) installed on your system. You can download them from [https://nodejs.org/](https://nodejs.org/).
 
 3. **Navigate to the Project Directory**: Change your current directory to the project's root directory:
-    cd Hostel-resort-website
 
-4. **Install Dependencies**: Run the following command to install the project dependencies:
+    cd Hostel-resort-website
+   
+5. **Install Dependencies**: Run the following command to install the project dependencies:
+
     npm install 
 
 
